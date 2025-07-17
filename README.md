@@ -13,9 +13,3 @@ This project features a **traditional Indian-style house** modeled in **Blender*
 
 - Blender 3D (Modeling, Texturing, and Rendering)
 
-## 📷 Preview
-
-(Add your rendered image or screenshots here)  
-Example:
-# HomeModel
-A traditional Indian-style house 3D model created in Blender. My first fully self-made project, completed in 2 weeks.
